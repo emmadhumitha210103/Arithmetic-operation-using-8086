@@ -183,7 +183,8 @@ END
 
 #### Manual Calculations
 
-![MUL MC](https://github.com/user-attachments/assets/0ba8a0f7-ac55-45ea-ba93-af8ee0a6a7b8)
+![MUL MC!](https://github.com/user-attachments/assets/2b9feab9-d63d-4fbe-bae1-4fb47c82afcb)
+
 
 
 
