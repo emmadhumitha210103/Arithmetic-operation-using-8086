@@ -66,17 +66,11 @@ END
 
 ![ADD MC](https://github.com/user-attachments/assets/150545f5-e437-41fa-9bc0-ea89712ad4be)
 
-
-
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 <img width="642" height="407" alt="image" src="https://github.com/user-attachments/assets/c7aa69b9-8ede-441a-90a9-1ff0e517b4d1" />
 <img width="752" height="540" alt="Screenshot 2025-09-03 at 05 43 40" src="https://github.com/user-attachments/assets/3a0aabf0-d72c-47c4-b028-9f949e1edba1" />
-
-
-
-
 
 ## 2. SUBTRACTION
 
@@ -129,17 +123,10 @@ END
 #### Manual Calculations
 ![SUB MC](https://github.com/user-attachments/assets/94e897bb-a32d-4cd3-b679-2da91fa40206)
 
-
-
 ---
-
-
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 <img width="637" height="407" alt="image" src="https://github.com/user-attachments/assets/f12652bd-3fbd-4248-b69c-667feb6825ed" />
 <img width="713" height="453" alt="image" src="https://github.com/user-attachments/assets/287ef925-1a4f-4360-91e2-9c9b3b811cfa" />
-
-
-
 
 ## 3. MULTIPLICATION
 
@@ -153,8 +140,6 @@ END
 ##FLOWCHART
 
 <img width="569" height="906" alt="image" src="https://github.com/user-attachments/assets/88be88ff-2896-4a88-b73d-84ccffd2fcf9" />
-
-
 
 #### Program
 
@@ -188,16 +173,11 @@ END
 
 ![MUL MC!](https://github.com/user-attachments/assets/2b9feab9-d63d-4fbe-bae1-4fb47c82afcb)
 
-
-
-
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 <img width="643" height="398" alt="image" src="https://github.com/user-attachments/assets/f804baac-184a-4ce3-8a33-353168797cba" />
 <img width="702" height="485" alt="image" src="https://github.com/user-attachments/assets/6d2cfad0-e316-4141-a97d-f863c26882fd" />
-
-
 
 ## 4. DIVISION
 
@@ -243,13 +223,10 @@ END
 
 ![DIV MC](https://github.com/user-attachments/assets/5db84786-e123-4269-a298-c9d1871eacc0)
 
-
-
 ---
 ## OUTPUT FROM MASM SOFTWARE
 <img width="654" height="407" alt="image" src="https://github.com/user-attachments/assets/89bc6055-b005-44f9-9381-8ced4f8275c9" />
 <img width="681" height="473" alt="image" src="https://github.com/user-attachments/assets/ec3f4e5c-3d02-4281-8c28-0791403f8213" />
-
 
 
 ## RESULT
