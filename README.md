@@ -71,8 +71,10 @@ END
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="642" height="407" alt="image" src="https://github.com/user-attachments/assets/c7aa69b9-8ede-441a-90a9-1ff0e517b4d1" />
+<img width="752" height="540" alt="Screenshot 2025-09-03 at 05 43 40" src="https://github.com/user-attachments/assets/3a0aabf0-d72c-47c4-b028-9f949e1edba1" />
 
-<img width="1920" height="1200" alt="ADD OP" src="https://github.com/user-attachments/assets/ed209316-e1ed-47ce-8b55-bd5f7b71cca5" />
+
 
 
 
@@ -133,8 +135,9 @@ END
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="637" height="407" alt="image" src="https://github.com/user-attachments/assets/f12652bd-3fbd-4248-b69c-667feb6825ed" />
+<img width="713" height="453" alt="image" src="https://github.com/user-attachments/assets/287ef925-1a4f-4360-91e2-9c9b3b811cfa" />
 
-<img width="1920" height="1200" alt="SUB OP" src="https://github.com/user-attachments/assets/a3eabb13-612e-447d-ba24-76241d897659" />
 
 
 
@@ -191,8 +194,8 @@ END
 ---
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-
-<img width="1920" height="1200" alt="Mulp op" src="https://github.com/user-attachments/assets/618506c1-0bcb-4b28-9de7-d877d244707a" />
+<img width="643" height="398" alt="image" src="https://github.com/user-attachments/assets/f804baac-184a-4ce3-8a33-353168797cba" />
+<img width="702" height="485" alt="image" src="https://github.com/user-attachments/assets/6d2cfad0-e316-4141-a97d-f863c26882fd" />
 
 
 
@@ -244,8 +247,9 @@ END
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+<img width="654" height="407" alt="image" src="https://github.com/user-attachments/assets/89bc6055-b005-44f9-9381-8ced4f8275c9" />
+<img width="681" height="473" alt="image" src="https://github.com/user-attachments/assets/ec3f4e5c-3d02-4281-8c28-0791403f8213" />
 
-<img width="1920" height="1200" alt="DIV OP" src="https://github.com/user-attachments/assets/16ed028d-47e8-4934-8464-6a930634e61d" />
 
 
 ## RESULT
